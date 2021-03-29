@@ -9657,7 +9657,7 @@ hr.light {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 72px);
-  background: linear-gradient(to bottom, rgba(68, 25, 25, 0.65) 0%, rgba(14, 6, 7, 0.8) 100%), url("https://source.unsplash.com/wosMZDjXy-8");
+  background: linear-gradient(to bottom, rgba(68, 25, 25, 0.65) 0%, rgba(14, 6, 7, 0.8) 100%), url("../img/ajeff.jpeg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
